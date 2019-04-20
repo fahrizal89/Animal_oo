@@ -1,7 +1,7 @@
 package com.fahrizal.example.animal.duck;
 
 import com.fahrizal.example.animal.duck.fly.FlyBehavior;
-import com.fahrizal.example.animal.quack.QuackBehavior;
+import com.fahrizal.example.animal.duck.quack.QuackBehavior;
 
 public abstract class Duck {
 	QuackBehavior quackBehavior;

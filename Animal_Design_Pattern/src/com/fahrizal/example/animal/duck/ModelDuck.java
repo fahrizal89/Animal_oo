@@ -1,7 +1,7 @@
 package com.fahrizal.example.animal.duck;
 
 import com.fahrizal.example.animal.duck.fly.FlyNoWay;
-import com.fahrizal.example.animal.quack.Quack;
+import com.fahrizal.example.animal.duck.quack.Quack;
 
 public class ModelDuck extends Duck{
 	public ModelDuck(){
