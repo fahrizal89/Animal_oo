@@ -1,4 +1,4 @@
-# OO Design Pattern
+# Strategy Pattern
 
 Problem:
 
